@@ -59,6 +59,9 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# cubemaps that are too large to save with github
+*.cubemap
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
